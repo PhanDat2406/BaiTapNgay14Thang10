@@ -6,4 +6,4 @@
 - **Tên bài tập:** [Bài 5: Bảng điều khiển Quản lý Đơn giao hàng]
 ---
 ## KẾT QUẢ THỰC HÀNH
-<video controls src="Screen Recording 2026-10-14 225846.mp4" title="Title"></video>
+▶ **[Xem Video Demo](./Screen%20Recording%202026-10-14%20225846.mp4)**

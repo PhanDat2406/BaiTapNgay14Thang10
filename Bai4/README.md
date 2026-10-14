@@ -7,4 +7,4 @@
 
 ---
 ## KẾT QUẢ THỰC HÀNH
-<video controls src="Screen Recording 2026-10-14 220745.mp4" title="Title"></video>
+▶ **[Xem Video Demo](./Screen%20Recording%202026-10-14%20220745.mp4)**
