@@ -8,4 +8,7 @@
 ---
 
 ## KẾT QUẢ THỰC HÀNH
-▶ **[Xem Video Demo](./Screen%20Recording%202026-10-14%20161512.mp4)**
+
+![Demo](./demo.gif)
+
+- *File video gốc:* [Screen Recording 2026-10-14 161512.mp4](./Screen%20Recording%202026-10-14%20161512.mp4)
